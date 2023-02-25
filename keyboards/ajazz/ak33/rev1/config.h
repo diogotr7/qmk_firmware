@@ -19,8 +19,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xA529
-#define PRODUCT_ID      0x5001
+#define VENDOR_ID       0x0C45
+#define PRODUCT_ID      0x5104
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Ajazz
 #define PRODUCT         AK33

@@ -23,3 +23,5 @@ CUSTOM_MATRIX = yes
 # Custom RGB matrix handling
 RGB_MATRIX_ENABLE = yes
 RGB_MATRIX_DRIVER = SN32F24x
+
+OPENRGB_ENABLE = yes
